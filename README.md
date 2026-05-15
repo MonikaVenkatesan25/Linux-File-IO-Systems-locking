@@ -157,10 +157,10 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-![image](<../image folder/Screenshot at 2026-05-15 10-59-34.png>)
+![image](</image folder/Screenshot at 2026-05-15 10-59-34.png>)
 
-![image](<../image folder/Screenshot at 2026-05-15 11-00-13.png>)
+![image](</image folder/Screenshot at 2026-05-15 11-00-13.png>)
 
-![image](<../image folder/Screenshot at 2026-05-15 11-03-17.png>)
+![image](</image folder/Screenshot at 2026-05-15 11-03-17.png>)
 # RESULT:
 The programs are executed successfully.
