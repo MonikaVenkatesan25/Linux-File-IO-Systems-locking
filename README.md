@@ -157,10 +157,10 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-![image](</image folder/Screenshot at 2026-05-15 10-59-34.png>)
+<img width="599" height="57" alt="Screenshot 2026-05-16 130632" src="https://github.com/user-attachments/assets/3b319a53-27af-4b8d-9092-40318afe314e" />
+<img width="630" height="47" alt="Screenshot 2026-05-16 130648" src="https://github.com/user-attachments/assets/9fc71a10-0458-4ce3-9445-849d1a2f7633" />
 
-![image](</image folder/Screenshot at 2026-05-15 11-00-13.png>)
+<img width="934" height="744" alt="Screenshot 2026-05-16 130608" src="https://github.com/user-attachments/assets/7084f88d-9384-4b0e-8d13-341c74afefaa" />
 
-![image](</image folder/Screenshot at 2026-05-15 11-03-17.png>)
 # RESULT:
 The programs are executed successfully.
